@@ -1,0 +1,35 @@
+body {
+  background-image: url(https://s3.amazonaws.com/shecodesio-production/uploads/files/000/113/385/original/wp5054868.jpg?1706869672);
+  background-size: cover;
+  background-position: center top;
+}
+
+h1 {
+  display: block;
+  font-size: 100px;
+  color: #c4c7c9;
+}
+
+h2 {
+  display: block;
+  font-size: 50px;
+  color: #f0f9cb;
+}
+
+h3 {
+  display: block;
+  color: rgb(252, 231, 94);
+}
+
+p {
+  color: #f0f9cb;
+  text-align: center;
+}
+
+.btn-secondary {
+  border-radius: 4px;
+  color: #f0f9cb;
+  font-size: 18px;
+  line-height: 27px;
+  padding: 15px 30px;
+}
